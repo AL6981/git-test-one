@@ -1,6 +1,7 @@
 # Academic Expectations
 _Successful completion of Ignition is a prerequisite to joining us during the on-campus experience. Throughout Ignition, you will be expected to make a submission for all “core” challenges contained within the week by their due date. Which challenges are “core”, and their deadlines, will be posted in the #assignments Slack channel on (typically) Monday morning of each week. Challenges are due Sunday night each week._
 
+## Blah
 
 ## Graded Weeks & System Checks
 During weeks 3 through 6 of Ignition, the Launch Academy Experience Engineers (EE’s, you can read more about them in the *Ignition Overview* lesson) will review and grade the final coding challenge of the week, called a System Check. System Checks are an opportunity for us to assess your understanding of code, give you feedback, and provide additional ideas and strategies for tackling challenges. So, to give us an accurate view, they must be completed on your own. If you have trouble understanding what a system check is asking for you to do, please send a direct message to an EE during their chat support hours (described below). Once a first/baseline attempt has been submitted, EE’s will be able to provide you with additional feedback and guidance, if desired.
